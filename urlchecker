@@ -1,0 +1,9 @@
+FROM python:3.9-slim-buster
+
+WORKDIR /
+
+RUN pip install Flask vt-py requests BeautifulSoup4
+
+COPY . .
+
+CMD ["python", "main.py"]
