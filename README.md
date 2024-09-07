@@ -1,13 +1,11 @@
 # urlchecker
 
-this program scans the given website url and the urls within the website returns result as a list.
+This program scans the given website URL and the URLs within the website, returning the results as a list.
 
-There is related files and scripts to run project within a docker container too.
+There are related files and scripts to run the project within a Docker container as well.
 
-before run it you need to create a "config.py" file and put your api key in it.
+Before running it, you need to create a "config.py" file and put your API key in it.
 
+In terms of frontend and visuals, this is literally as basic as it gets for now. I will try to work on that as soon as possible.
 
-
-In terms of frontend and visuals this is literally as basic as it gets for now I will try to work on that as soon as possible.
-
-
+Copy
